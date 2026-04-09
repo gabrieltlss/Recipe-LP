@@ -2,7 +2,7 @@
 
 A landing page created using React and Tailwind CSS.
 
-Page URL: [recipe page]()
+Page URL: [recipe page](https://recipe-landing-page-f68i1ezjw-gabrieltlss-projects.vercel.app/)
 
 ## Demonstration
 
@@ -13,9 +13,6 @@ Mobile:
 Desktop:
 
 ![Mobile Page](./public/full-page-lp.png)
-
-
-![Mobile Page](./public/full-page-lp(2).png)
 
 ## Technologies
 
