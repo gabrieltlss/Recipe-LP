@@ -7,10 +7,13 @@ Page URL: [recipe page]()
 ## Demonstration
 
 Mobile:
+
 ![Mobile Page](./public/mobile-lp.png)
 
-Desktop
+Desktop:
+
 ![Mobile Page](./public/full-page-lp.png)
+
 
 ![Mobile Page](./public/full-page-lp(2).png)
 
